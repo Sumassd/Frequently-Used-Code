@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+///对象池
 [System.Serializable]
 public class Pool
 {
