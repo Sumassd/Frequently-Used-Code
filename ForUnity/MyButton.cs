@@ -6,9 +6,9 @@ using UnityEngine;
 /// </summary>
 public class MyButton
 {
-    public bool isPressing;
-    public bool onPressed;
-    public bool Released;
+    public bool isPressing;//getkey
+    public bool onPressed;//getkeydown
+    public bool Released;//getkeyup
     private bool currentState;
     private bool lastState;
     /// <summary>
